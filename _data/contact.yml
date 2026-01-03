@@ -12,7 +12,7 @@
 
 - type: linkedin
   icon: "fab fa-linkedin"
-  #url: "https://linkedin.com/in/eslam-hesham-5b65211b9"
+  url: "https://linkedin.com/in/eslam-hesham-5b65211b9"
 
 - type: rss
   icon: "fas fa-rss"
