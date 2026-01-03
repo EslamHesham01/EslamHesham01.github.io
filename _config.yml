@@ -18,10 +18,10 @@ social:
   name: Eslam Hesham
   links:
     - https://github.com/EslamHesham01
-    - https://www.linkedin.com/in/eslam-hesham-5b65211b9
+    - https://www.linkedin.com/in/eslam-hesham-5b65211b9/
 
 avatar: /assets/img/profile.jpg
-theme_mode: dark
+theme_mode: 
 toc: true
 
 paginate: 10
