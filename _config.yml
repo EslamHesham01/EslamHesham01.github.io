@@ -26,11 +26,12 @@ toc: true
 
 paginate: 10
 
+# ❗ مهم: provider لازم يبقى null مش ""
 pageviews:
-  provider: ""
+  provider: null
 
 comments:
-  provider: ""
+  provider: null
 
 pwa:
   enabled: true
