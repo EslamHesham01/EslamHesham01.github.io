@@ -1,7 +1,10 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
+title: About
+icon: fas fa-user
+toc: false
+sidebar: true
 ---
+
 
 # Who Am I ?
 
