@@ -36,8 +36,8 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Eslam Hesham
-  email: eslam.hesham2025@gmail.com # change to your email address
-  fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
+  #email: eslam.hesham2025@gmail.com # change to your email address
+  #fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/EslamHesham01 # change to your Twitter homepage
@@ -59,7 +59,7 @@ webmaster_verifications:
 # The end of `jekyll-seo-tag` settings
 
 
-theme_mode:
+theme_mode: ""
 avatar: avatar: /assets/img/profile.jpg
 toc: true
 
